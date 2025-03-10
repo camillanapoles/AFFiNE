@@ -41,9 +41,9 @@
     "fake-indexeddb": "^6.0.0",
     "react": "^18.2.0",
     "rxjs": "^7.8.1",
-    "vite": "^5.2.8",
+    "vite": "^6.2.1",
     "vite-plugin-dts": "3.9.1",
-    "vitest": "1.6.0"
+    "vitest": "1.6.1"
   },
   "peerDependencies": {
     "@affine/templates": "*",
