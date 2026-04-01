@@ -26,7 +26,7 @@
     "@affine/env": "workspace:*",
     "graphql": "^16.8.1",
     "lodash": "^4.17.21",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "nanoid": "^5.0.7"
   },
   "installConfig": {
